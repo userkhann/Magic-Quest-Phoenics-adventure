@@ -1,0 +1,7 @@
+{
+  "name": "Magic Quest: Phonics Adventure",
+  "description": "A fun, interactive game for children to learn phonics, numbers, shapes, and colors through magical quests. Features adaptive learning with speech recognition and dynamically generated levels using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

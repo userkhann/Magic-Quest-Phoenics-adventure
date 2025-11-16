@@ -1,0 +1,20 @@
+{
+  "short_name": "Magic Quest",
+  "name": "Magic Quest: Phonics Adventure",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/4B0082/FFFFFF?text=MQ",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512/4B0082/FFFFFF?text=MQ",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#87CEEB",
+  "background_color": "#98FB98"
+}
